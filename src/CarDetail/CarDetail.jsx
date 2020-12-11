@@ -8,7 +8,7 @@ const CarDetail = (props) => {
 
   useEffect( () => {
     const fetchCars = async () => {
-      const result = await fetch("http://demo1468395.mockable.io/brands")
+      const result = await fetch("https://demo1468395.mockable.io/brands")
       const response = await result.json();
       setFetchedCars(response);
     };
