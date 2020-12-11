@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/seainfo6150-final-project-webapp/precache-manifest.e0bd14e91e9e33167fab57e52448dedf.js"
+  "/seainfo6150-final-project-webapp/precache-manifest.cb69cc9eb8f321654433c715299eba01.js"
 );
 
 self.addEventListener('message', (event) => {
