@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the AboutUs Component Correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1>
+      About Us
+    </h1>
+    <div>
+      <picture>
+        <source
+          media="(max-width: 600px)"
+          srcset="logo3.jpeg"
+        />
+        <source
+          media="(max-width: 1200px)"
+          srcset="logo2.png"
+        />
+        <img
+          alt="sports car"
+          class="tupian"
+          src="aboutusLogo.png"
+        />
+      </picture>
+    </div>
+    <div
+      class="container"
+    >
+      <h3>
+        Our History
+      </h3>
+      <p>
+        we are a new car dealer company, we start from 2020, our groups are consist of all young people, we have a team of experts ready to provide you a best service to make you have a memorable experience.
+      </p>
+    </div>
+    <div
+      class="serviceDisplay"
+    >
+      <div>
+        <img
+          alt="customer service tupian"
+          class="tupian"
+          src="customer.png"
+        />
+      </div>
+      <div
+        class="container"
+      >
+        <h3>
+          Our Service
+        </h3>
+        <p>
+          we provide 7x24 hours service, if you meet any problems, please contact me immediately, we will provide professional and timely service. we also provide 1 vs 1 personal assistant, our assistant will help you solve any problems, and we will collect your feedback every year.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

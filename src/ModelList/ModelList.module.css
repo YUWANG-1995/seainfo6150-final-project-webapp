@@ -1,0 +1,24 @@
+.container{
+
+}
+
+.modelList{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+  list-style: none;
+}
+
+@media (max-width: 1000px){
+  .modelList{
+    grid-template-columns: 1fr;
+    column-gap: 30px;
+  }
+}
+
+@media (min-width: 1000px){
+  .modelList{
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+  }
+}

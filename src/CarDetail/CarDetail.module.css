@@ -1,0 +1,30 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image{
+  width: 800px;
+  height: 500px;
+}
+
+.prices{
+  font-size: 1.8rem;
+}
+
+.descripe{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+.button{
+  background-color: #2f54eb;
+  color: white;
+  border: 2px solid #597ef7;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-top: 10px;
+}

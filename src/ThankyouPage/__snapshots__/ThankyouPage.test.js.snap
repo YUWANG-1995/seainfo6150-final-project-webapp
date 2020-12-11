@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the AboutUs Component Correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p
+      class="text"
+    >
+       Successful! we already received your  
+    </p>
+    <p
+      class="text"
+    >
+       we already received your oreder information !
+    </p>
+    <p
+      class="text"
+    >
+       we will contact you soon !
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders the ThankyouPage Component Correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p
+      class="text"
+    >
+       Successful! we already received your  
+    </p>
+    <p
+      class="text"
+    >
+       we already received your oreder information !
+    </p>
+    <p
+      class="text"
+    >
+       we will contact you soon !
+    </p>
+  </div>
+</div>
+`;

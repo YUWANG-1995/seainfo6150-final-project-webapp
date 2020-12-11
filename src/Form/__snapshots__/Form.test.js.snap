@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Form Component Correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <form>
+      <label>
+        Your Name: 
+      </label>
+      <input
+        name="name"
+        required=""
+        type="text"
+      />
+      <br />
+      <label>
+        Your Gender: 
+      </label>
+      <select
+        name="gender"
+      >
+        <option
+          value="male"
+        >
+          Male
+        </option>
+        <option
+          value="female"
+        >
+          Female
+        </option>
+      </select>
+      <br />
+      <label>
+        Your Email: 
+      </label>
+      <input
+        name="email"
+        required=""
+        type="email"
+      />
+      <br />
+      <label>
+        Your Phone: 
+      </label>
+      <input
+        name="phone"
+        required=""
+        type="text"
+      />
+      <br />
+      <label>
+        Brand: 
+      </label>
+      <input
+        disabled=""
+        name="brand"
+        type="text"
+        value="BMW"
+      />
+      <br />
+      <label>
+        Model: 
+      </label>
+      <input
+        disabled=""
+        name="model"
+        type="text"
+        value="X1"
+      />
+      <br />
+      <label>
+        Quantity: 
+      </label>
+      <input
+        min="0"
+        name="quantity"
+        type="number"
+      />
+      <br />
+      <label>
+        Comment: 
+      </label>
+      <textarea
+        maxlength="1000"
+        name="comment"
+      />
+      <br />
+      <input
+        class="button"
+        type="submit"
+        value="submit your order"
+      />
+    </form>
+  </div>
+</div>
+`;

@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the MainPage Component Correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="descripePart"
+    >
+      <h1>
+        Lexi's Car Shop 
+      </h1>
+      <h4>
+        Meet You Match
+      </h4>
+      <p
+        class="pDetail"
+      >
+        While every car in the Lexi'S family offers innovative technology, exceptional efficiency and impressive safety features, each one has a personality all its own. Whether you’re looking for a spunky sidekick for your next urban adventure or a sophisticated sedan for nights out on the town, there’s a Chevrolet car that’s a perfect fit.
+      </p>
+    </div>
+    <div
+      class="gridContainer"
+    >
+      <div>
+        <a
+          href="/cars/BMW"
+        >
+          <img
+            alt="bmw i8 "
+            class="image"
+            src="bmw_i8.png"
+          />
+        </a>
+        <div
+          class="gridFont"
+        >
+          <p>
+            BMW i8 
+          </p>
+          <p>
+             $100,000+ 
+          </p>
+          <p>
+            Lowest Price
+          </p>
+          <p>
+            up to 80% off!
+          </p>
+        </div>
+      </div>
+      <div>
+        <a
+          href="/cars/Audi"
+        >
+          <img
+            alt="audi r8 "
+            class="image"
+            src="Audi.jpg"
+          />
+        </a>
+        <div
+          class="gridFont"
+        >
+          <p>
+            Audi R8
+          </p>
+          <p>
+            $100,000+
+          </p>
+          <p>
+            Lowest Price
+          </p>
+          <p>
+            up to 85% off!
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

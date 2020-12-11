@@ -1,0 +1,30 @@
+.descripePart{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.pDetail{
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+.gridContainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 10px;
+}
+
+.image{
+  width: 600px;
+  height: 400px;
+}
+
+
+.gridFont{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}

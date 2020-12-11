@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the ContactUs Component Correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1>
+      CONTACT US
+    </h1>
+    <div>
+      <address>
+        401 Terry Ave N #103
+        <br />
+        Seattle, WA 98109
+        <br />
+        USA
+        <br />
+        <a
+          href="mailto:wang.yu14@northeastern.edu"
+        >
+          Custoer Service Email
+        </a>
+        <br />
+        Call us : +1 (877)-668-7727
+        <br />
+      </address>
+    </div>
+  </div>
+</div>
+`;

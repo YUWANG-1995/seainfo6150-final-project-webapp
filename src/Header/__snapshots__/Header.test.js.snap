@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Header Component Correctly 1`] = `
+<div>
+  <header
+    class="container"
+  >
+    <nav>
+      <div>
+        <a
+          href="/home"
+        >
+          <img
+            alt="logo-img"
+            class="headerLogo"
+            src="homeLogo.jpg"
+          />
+        </a>
+      </div>
+      <ul
+        class="navbar"
+      >
+        <li>
+          <a
+            class="navLink"
+            href="/home"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            class="navLink"
+            href="/brands"
+          >
+            All Brands
+          </a>
+        </li>
+        <li>
+          <a
+            class="navLink"
+            href="/aboutUs"
+          >
+            About Us
+          </a>
+        </li>
+        <li>
+          <a
+            class="navLink"
+            href="/contactUs"
+          >
+            Contact Us
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</div>
+`;

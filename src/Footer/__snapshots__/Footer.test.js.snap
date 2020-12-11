@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Footer Component Correctly 1`] = `
+<div>
+  <footer
+    class="footerSytle"
+  >
+    <p>
+      Author: Yu Wang 
+      <br />
+      @All the code written by Yu Wang
+      <br />
+      @All images and content are just for Studying without commerical use
+    </p>
+  </footer>
+</div>
+`;
+
+exports[`renders the Header Component Correctly 1`] = `
+<div>
+  <footer
+    class="footerSytle"
+  >
+    <p>
+      Author: Yu Wang 
+      <br />
+      @All the code written by Yu Wang
+      <br />
+      @All images and content are just for Studying without commerical use
+    </p>
+  </footer>
+</div>
+`;

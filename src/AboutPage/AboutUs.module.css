@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.serviceDisplay{
+  display: grid;
+  grid-template-columns: 70% 30%;
+  column-gap: 30px;
+  align-items: center;
+
+}
+
+.tupian{
+  width:100%;
+  height:auto;
+}
+
+.test {
+  width: 500px;
+}

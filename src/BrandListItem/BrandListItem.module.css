@@ -1,0 +1,22 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image{
+  width: 300px;
+  height: 160px;
+}
+
+.brand{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  color: #000000;
+}
+p.brand:hover{
+  color:red;
+}

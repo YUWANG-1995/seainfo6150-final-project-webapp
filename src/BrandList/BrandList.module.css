@@ -1,0 +1,32 @@
+.container{
+  margin: 100px 70px;
+}
+
+.carList{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  list-style: none;
+  overflow: hidden;
+}
+
+@media (min-width: 500px) {
+  .carList{
+    grid-template-columns: 1fr;
+    column-gap: 30px;
+  }
+}
+
+@media (min-width: 700px) {
+  .carList{
+    grid-template-columns: 1fr 1fr;
+    column-gap: 25px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .carList{
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 20px;
+  }
+}

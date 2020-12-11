@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the BrandListItem Component Correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <img
+      alt="BMW"
+      class="image"
+      src="https://4.bp.blogspot.com/-IOuK59xvd-Q/V0yK19RcD8I/AAAAAAAAAJs/4gavimm0yW8av7K9yZSIvNQ5A-NeW2Y-ACLcB/s1600/bmw-logo.jpg"
+    />
+    <p
+      class="brand"
+    >
+      BMW
+    </p>
+  </div>
+</div>
+`;
