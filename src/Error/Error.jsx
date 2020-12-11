@@ -11,7 +11,7 @@ const Error = () => {
             <p className={styles.text}>
               404 Not Found !<br />
               Ooops, here is something wrong.<br/>
-              <Link to="/home"><span>Click me back to home page</span></Link>
+              <Link to="/"><span>Click me back to home page</span></Link>
             </p>
           </div>
           <div>
