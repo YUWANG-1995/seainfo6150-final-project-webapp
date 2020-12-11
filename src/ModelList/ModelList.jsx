@@ -9,7 +9,7 @@ const ModelList = (props) => {
 
   useEffect( () => {
     const fetchModels = async () => {
-      const result = await fetch("http://demo1468395.mockable.io/brands");
+      const result = await fetch("https://demo1468395.mockable.io/brands");
       const response = await result.json()
       console.log(JSON.stringify(Object.values(response['BMW']['model'])));
       setFetchedModels(response);
