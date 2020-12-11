@@ -11,7 +11,15 @@ exports[`renders the Error Component Correctly 1`] = `
       >
         404 Not Found !
         <br />
-        Ooops, here is something wrong, please click back to Home Page
+        Ooops, here is something wrong.
+        <br />
+        <a
+          href="/"
+        >
+          <span>
+            Click me back to home page
+          </span>
+        </a>
       </p>
     </div>
     <div>

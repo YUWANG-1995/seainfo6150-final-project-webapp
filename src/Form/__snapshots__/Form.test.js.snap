@@ -34,10 +34,44 @@ exports[`renders the Form Component Correctly 1`] = `
       </select>
       <br />
       <label>
+        Appointment Time: 
+      </label>
+      <select
+        name="date"
+      >
+        <option
+          value="monday"
+        >
+          Monday
+        </option>
+        <option
+          value="Tuesday"
+        >
+          Tuesday
+        </option>
+        <option
+          value="Wednesday"
+        >
+          Wednesday
+        </option>
+        <option
+          value="Thursday"
+        >
+          Thursday
+        </option>
+        <option
+          value="Friday"
+        >
+          Friday
+        </option>
+      </select>
+      <br />
+      <label>
         Your Email: 
       </label>
       <input
         name="email"
+        placeholder="123@321.com"
         required=""
         type="email"
       />
@@ -47,8 +81,9 @@ exports[`renders the Form Component Correctly 1`] = `
       </label>
       <input
         name="phone"
+        placeholder="(xxx)-xxx-xxx"
         required=""
-        type="text"
+        type="tel"
       />
       <br />
       <label>
@@ -86,6 +121,55 @@ exports[`renders the Form Component Correctly 1`] = `
       <textarea
         maxlength="1000"
         name="comment"
+      />
+      <br />
+      <label>
+        Where you know us ?
+      </label>
+      <br />
+      <input
+        type="radio"
+        value="Facebook"
+      />
+      <label>
+        Facebook
+      </label>
+      <br />
+      <input
+        type="radio"
+        value="Twitter"
+      />
+      <label>
+        Twitter
+      </label>
+      <br />
+      <input
+        type="radio"
+        value="Friends"
+      />
+      <label>
+        Friends
+      </label>
+      <br />
+      <input
+        type="radio"
+        value="Search Engine"
+      />
+      <label>
+        Search Engin（google, bing..)
+      </label>
+      <br />
+      <input
+        type="radio"
+        value="others"
+      />
+      <label>
+        Others: 
+      </label>
+      <br />
+      <input
+        name="others"
+        type="text"
       />
       <br />
       <input

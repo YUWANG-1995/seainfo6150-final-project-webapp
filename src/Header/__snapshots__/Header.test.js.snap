@@ -8,7 +8,7 @@ exports[`renders the Header Component Correctly 1`] = `
     <nav>
       <div>
         <a
-          href="/home"
+          href="/"
         >
           <img
             alt="logo-img"
@@ -23,7 +23,7 @@ exports[`renders the Header Component Correctly 1`] = `
         <li>
           <a
             class="navLink"
-            href="/home"
+            href="/"
           >
             Home
           </a>
