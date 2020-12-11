@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.js": "/seainfo6150-final-project-webapp/static/js/main.34e1954b.chunk.js",
-    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.34e1954b.chunk.js.map",
+    "main.css": "/seainfo6150-final-project-webapp/static/css/main.af6f601e.chunk.css",
+    "main.js": "/seainfo6150-final-project-webapp/static/js/main.ecc0777f.chunk.js",
+    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.ecc0777f.chunk.js.map",
     "runtime~main.js": "/seainfo6150-final-project-webapp/static/js/runtime~main.c4d7f5e8.js",
     "runtime~main.js.map": "/seainfo6150-final-project-webapp/static/js/runtime~main.c4d7f5e8.js.map",
-    "static/js/2.fc54e8b9.chunk.js": "/seainfo6150-final-project-webapp/static/js/2.fc54e8b9.chunk.js",
-    "static/js/2.fc54e8b9.chunk.js.map": "/seainfo6150-final-project-webapp/static/js/2.fc54e8b9.chunk.js.map",
+    "static/js/2.89838121.chunk.js": "/seainfo6150-final-project-webapp/static/js/2.89838121.chunk.js",
+    "static/js/2.89838121.chunk.js.map": "/seainfo6150-final-project-webapp/static/js/2.89838121.chunk.js.map",
     "index.html": "/seainfo6150-final-project-webapp/index.html",
-    "precache-manifest.050019221470b8170857900797e3e55d.js": "/seainfo6150-final-project-webapp/precache-manifest.050019221470b8170857900797e3e55d.js",
+    "precache-manifest.e11ccd9b67228288c5c8adabf8d59541.js": "/seainfo6150-final-project-webapp/precache-manifest.e11ccd9b67228288c5c8adabf8d59541.js",
     "service-worker.js": "/seainfo6150-final-project-webapp/service-worker.js",
-    "static/media/treefrog.jpg": "/seainfo6150-final-project-webapp/static/media/treefrog.52b16bf8.jpg"
+    "static/css/main.af6f601e.chunk.css.map": "/seainfo6150-final-project-webapp/static/css/main.af6f601e.chunk.css.map",
+    "static/media/Audi.jpg": "/seainfo6150-final-project-webapp/static/media/Audi.484b8e0e.jpg",
+    "static/media/LandingPage.module.css": "/seainfo6150-final-project-webapp/static/media/lanborghini.562daabc.png",
+    "static/media/aboutusLogo.png": "/seainfo6150-final-project-webapp/static/media/aboutusLogo.c608ab28.png",
+    "static/media/bmw_i8.png": "/seainfo6150-final-project-webapp/static/media/bmw_i8.cf74270b.png",
+    "static/media/customer.png": "/seainfo6150-final-project-webapp/static/media/customer.94d5b238.png",
+    "static/media/homeLogo.jpg": "/seainfo6150-final-project-webapp/static/media/homeLogo.3acf5bf8.jpg",
+    "static/media/logo2.png": "/seainfo6150-final-project-webapp/static/media/logo2.6ca20f4b.png"
   }
 }
