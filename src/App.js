@@ -44,6 +44,7 @@ const App = () => {
       <Router>
         <Header />
         <Switch>
+          <Route path="/" exact component={MainPage} />
           <Route path="/aboutUs" exact component={AboutUs} />
           <Route path="/contactUs" exact component={ContactUs} />
           <Route path="/brands" exact render={() => displayAllBrands} />
@@ -68,7 +69,6 @@ const App = () => {
               <ModelList brand={match.params.brand} />
             )}
           />
-         <Route path="/" exact component={MainPage} />
           <Route component={Error} />
         </Switch>
         <Footer />
