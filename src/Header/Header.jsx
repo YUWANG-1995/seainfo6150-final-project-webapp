@@ -8,6 +8,7 @@ const Header = () => {
     <header className={styles.container}>
       <nav>
           <div>
+            <h1 className={styles.title}> Welcome to Lexi's Car Shop </h1>
             <Link to="/"><img className={styles.headerLogo} src={logo} alt="logo-img"/></Link>
           </div>
           <ul className={styles.navbar}>

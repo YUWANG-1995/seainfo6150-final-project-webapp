@@ -6,9 +6,6 @@ exports[`renders the MainPage Component Correctly 1`] = `
     <div
       class="descripePart"
     >
-      <h1>
-        Lexi's Car Shop 
-      </h1>
       <h4>
         Meet You Match
       </h4>

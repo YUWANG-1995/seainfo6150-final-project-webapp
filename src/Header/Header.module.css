@@ -4,6 +4,12 @@
   justify-content: space-around;
 }
 
+.title{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+  font-size: 2rem;
+}
 .headerLogo{
   display: block;
   width: 150px;

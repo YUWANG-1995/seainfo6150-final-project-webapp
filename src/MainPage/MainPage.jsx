@@ -8,7 +8,6 @@ const MainPage = () => {
   return (
     <div>
       <div className={styles.descripePart}>
-        <h1>Lexi's Car Shop </h1>
         <h4>Meet You Match</h4>
         <p className={styles.pDetail}>While every car in the Lexi'S family offers innovative technology, exceptional efficiency and impressive safety features, each one has a personality all its own. Whether you’re looking for a spunky sidekick for your next urban adventure or a sophisticated sedan for nights out on the town, there’s a Chevrolet car that’s a perfect fit.</p>
       </div>
