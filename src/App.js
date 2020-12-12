@@ -45,6 +45,7 @@ const App = () => {
         <Header />
         <Switch>
           <Route path="/" exact component={MainPage} />
+          <Route path="/seainfo6150-final-project-webapp" exact component={MainPage} />
           <Route path="/aboutUs" exact component={AboutUs} />
           <Route path="/contactUs" exact component={ContactUs} />
           <Route path="/brands" exact render={() => displayAllBrands} />
